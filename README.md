@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2> Hey there! I'm YoTro. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<!--
-**YoTro/YoTro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently learning Machine Learing
+- 🤔 &nbsp; Exploring ew technologies and learn new models and algorithm.
+- 🎓 &nbsp; Studying E-commerce, computer programming and Mathematics.
+- 💼 &nbsp; E-commerce operator.
+- 🌱 &nbsp; Enthusiast in mathematics and new internet techonologies.
+- ✍️ &nbsp; Reading history time travel novel.
+- ☕ &nbsp; I belive, a good book can be the ultimate solution for any stress. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | C/C++  
+- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🛢 &nbsp; MySQL 
+- 🔧 &nbsp; Git | Sublime Text
+- 🖥 &nbsp; Photoshop 
+
+<br>
+
+![YoTro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoTro)
+
+</br>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://t.me/toryun" target="_blank" rel="noopener noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" width="50" /></a> 
+</p>
+
+
