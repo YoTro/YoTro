@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Machine Learing
-- 🤔 &nbsp; Exploring ew technologies and learn new models and algorithm.
+- 🤔 &nbsp; Exploring CS technologies and learn new models and algorithm.
 - 🎓 &nbsp; Studying E-commerce, computer programming and Mathematics.
 - 💼 &nbsp; E-commerce operator.
 - 🌱 &nbsp; Enthusiast in mathematics and new internet techonologies.
@@ -30,7 +30,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://t.me/toryun" target="_blank" rel="noopener noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" width="50" /></a> 
+&nbsp; <a href="https://t.me/toryunbot" target="_blank" rel="noopener noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" width="50" /></a> 
 </p>
 
 
