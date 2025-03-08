@@ -10,7 +10,8 @@
 - 🌱 &nbsp; Enthusiast in mathematics and new internet techonologies.
 - ✍️ &nbsp; Reading history time travel novel.
 - ☕ &nbsp; I belive, a good book can be the ultimate solution for any stress. 
-
+- 🏸 &nbsp; Play badminton four times a week.
+  
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C/C++  
